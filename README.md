@@ -1,5 +1,8 @@
 # 👋 Hi, I’m @si0408
 
+## My Skills
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,html,css,sass,java,spring,vscode,unreal,idea&perline=5)](https://skillicons.dev)
 
 ```
 
