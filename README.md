@@ -4,6 +4,14 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,html,css,sass,java,spring,vscode,unreal,idea&perline=5)](https://skillicons.dev)
 
+## My Status
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=si0408)](https://github.com/anuraghazra/github-readme-stats)
+
+## My Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=si0408)](https://github.com/ryo-ma/github-profile-trophy)
+
 ```
 
 
